@@ -145,7 +145,7 @@ scikit-learn
 Made with ❤️ as part of the **CodeAlpha Internship Program**
 
 ---
-
+---
 ## 📄 License
 
 This project is open-source and free to use for educational purposes.
